@@ -1,0 +1,4 @@
+git add .github/workflows/devsecops.yml
+git commit -m "Fix image name to lowercase and complete DevSecOps pipeline"
+git push
+
