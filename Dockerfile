@@ -1,6 +1,6 @@
-FROM node:14
+FROM node:20-alpine
 WORKDIR /app
 COPY . .
-RUN npm install
+RUN npm install --omit=dev
 CMD ["node", "server.js"]
 
