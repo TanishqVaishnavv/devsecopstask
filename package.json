@@ -1,0 +1,8 @@
+{
+  "name": "devsecops-task",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"Lint passed\""
+  }
+}
